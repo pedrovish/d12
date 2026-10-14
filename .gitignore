@@ -1,0 +1,4 @@
+# Google credentials for the GSC MCP server — never commit these
+service_account.json
+client_secrets.json
+token.json
